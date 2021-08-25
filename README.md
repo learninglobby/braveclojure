@@ -1,0 +1,1 @@
+This repository hosts materials relating to learning Clojure. The main book followed is "Clojure for the Brave and True"
